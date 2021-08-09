@@ -1,6 +1,6 @@
 This is a Product Landing Page which features a new laptop getting launched into the market.
 This Page is mobile Responsive.
-This Page is compatible in all the major web browsers.
+This Page is compatible with all the major web browsers.
 
 Here is How it looks :
 
